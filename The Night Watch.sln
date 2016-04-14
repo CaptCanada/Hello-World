@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Night Watch.CSharp.Plugins", "The Night Watch.CSharp.Plugins.csproj", "{17182E74-2A95-84C1-8061-39B8A02295E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Night Watch.CSharp", "The Night Watch.CSharp.csproj", "{67272594-B192-C8D0-6A16-01B9BA488532}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Night Watch.CSharp.Editor", "The Night Watch.CSharp.Editor.csproj", "{86E99D1D-BB8A-3310-0134-DAB8BFE491F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17182E74-2A95-84C1-8061-39B8A02295E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17182E74-2A95-84C1-8061-39B8A02295E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17182E74-2A95-84C1-8061-39B8A02295E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17182E74-2A95-84C1-8061-39B8A02295E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67272594-B192-C8D0-6A16-01B9BA488532}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67272594-B192-C8D0-6A16-01B9BA488532}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67272594-B192-C8D0-6A16-01B9BA488532}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67272594-B192-C8D0-6A16-01B9BA488532}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86E99D1D-BB8A-3310-0134-DAB8BFE491F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86E99D1D-BB8A-3310-0134-DAB8BFE491F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86E99D1D-BB8A-3310-0134-DAB8BFE491F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86E99D1D-BB8A-3310-0134-DAB8BFE491F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
