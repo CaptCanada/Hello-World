@@ -261,6 +261,7 @@
     <None Include="Assets\RoadTool\Example\Standard Assets\Skyboxes\_skybox info.txt" />
     <None Include="Assets\RoadTool\README.txt" />
     <None Include="Assets\RoadTool\Texture\Texture Credits.txt" />
+    <None Include="Assets\Shipping Container Environment\Readme.txt" />
     <None Include="Assets\Standard Assets\Cameras\CameraGuidelines.txt" />
     <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
     <None Include="Assets\Standard Assets\Characters\RollerBall\RollerBallGuidelines.txt" />
